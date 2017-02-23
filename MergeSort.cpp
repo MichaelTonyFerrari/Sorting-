@@ -19,7 +19,7 @@ int merge(int array[], int left, int mid, int right){
 
 }
 
-
+// adding comment 
 
 int mergesort(int array[], int left, int right){
 
